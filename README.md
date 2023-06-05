@@ -1,0 +1,1 @@
+![CI](https://github.com/julija9531/08-js_browser-01-01-env/actions/workflows/web.yml/badge.svg)
