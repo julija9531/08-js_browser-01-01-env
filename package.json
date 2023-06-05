@@ -14,7 +14,11 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "coursar",
+  "author": "julija9531",
+  "repository": {
+    "url": "https://github.com/julija9531/08-js_browser-01-01-env",
+    "type": "git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
